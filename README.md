@@ -6,9 +6,7 @@ The APP is called FLUSHI and you can download for free from here https://hackmik
 
 if you get this error during the installation
 
-<img src="images/1_Lx0uR6AyREZBjjHPgQuCqg.png" width="128"/>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<img src="images/1_Lx0uR6AyREZBjjHPgQuCqg.png"/>
 
 go to setting > security & privacy and click open anyway
 
