@@ -1,4 +1,4 @@
-to flush the DNS cache on MacOSX is very annoyed because you need to google to find the command that is something that is not easy to remind, then you need to open terminal.app and then you need to execute the command.
+Flush the DNS cache on MacOSX is very annoyed because you need to google to find the command that is something that is not easy to remind, then you need to open terminal.app and then you need to execute the command.
 
 I decided to develop a simple app that can help you to flush DNS cache on Mac.
 
