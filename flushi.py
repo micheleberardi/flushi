@@ -17,7 +17,7 @@ def helloCallBack(pwd):
    list = [command, command2]
    for i in list:
       result = subprocess.getoutput(i)
-      print("CAZZO "+str(result))
+      print("HOLA "+str(result))
    print(result)
    if "No matching processes were found" in result:
       tkinter.messagebox.showinfo("FLUSHI", "FLUSH HAS BEEN DONE \n YOU ARE GOOD TO GO")
