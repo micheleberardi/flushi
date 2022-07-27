@@ -2,7 +2,7 @@ Flush the DNS cache on MacOSX is very annoyed because you need to google to find
 
 I decided to develop a simple app that can help you to flush DNS cache on Mac.
 
-The APP is called FLUSHI and you can download for free from here https://hackmike.com/static/flushi.zip
+The APP is called FLUSHI and you can download for free from here https://ipmike.com/static/flushi.zip
 
 if you get this error during the installation
 
